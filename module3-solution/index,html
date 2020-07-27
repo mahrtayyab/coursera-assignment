@@ -1,1 +1,74 @@
-<!Doctype HTML>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Module3 Assignment</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">    
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="/coursera-assignment/module3-solution/css/style.css">
+    </head>
+    <body>
+        <!--Navigation bar starts-->
+        <header>
+            <nav class="navbar navbar-inverse" id="top-nav">
+                <div class="container">
+                  <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>                        
+                    </button>
+                    <a class="navbar-brand" href="#"><h1>Food, LLC</h1></a>
+                  </div>
+        
+                  <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav navbar-right">
+                      <li><a href="#"> Chicken</a></li>
+                      <hr class="visible-xs">
+                      <li><a href="#"> Beef</a></li>
+                      <hr class="visible-xs">
+                      <li><a href="#"> Sushi</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </nav>
+          </header>
+          <!--Navigation bar ends-->
+          
+          <!--Main content starts-->
+          <!--Menu Title-->
+          <section>
+              <div class="container">
+                <h2 class="text-center"> Our Menu</h2>
+              </div>
+          </section>
+          <!--Menu Title ends-->
+          <!--Main paragraph starts-->
+          <section>
+              <div class="container" id="main-para">
+                 <div class="col-xs-12 col-md-12 col-lg-12">
+                    <div class="text-center">
+                        <h3>
+                            Chicken
+                        </h3>
+                    </div>
+                    <div>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, esse labore natus aut perspiciatis earum corrupti libero suscipit adipisci ad nostrum maiores. A quibusdam amet quia veritatis nisi cum magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque sit nihil odio accusamus nulla numquam fugit. Neque sed qui deleniti quibusdam eaque, iste error recusandae delectus id minus corporis exercitationem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum natus nihil amet accusamus temporibus maiores deserunt voluptates! Qui, minus. Expedita labore nam repellendus autem reprehenderit officia maxime consequuntur optio modi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt dolorem nulla nam minus possimus, provident consequatur atque nobis. Impedit quas vitae ipsum, libero rerum dolorem praesentium odit temporibus pariatur nemo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis quis inventore quidem doloremque, soluta officiis delectus et mollitia iusto, alias quibusdam dolores perferendis, deserunt pariatur laborum libero. Repudiandae, molestiae sequi? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, eaque? Esse ipsa perspiciatis est amet. Pariatur sed nisi assumenda ex non. Incidunt nam quisquam quidem, cum libero quos iste sint!Lorem
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, esse labore natus aut perspiciatis earum corrupti libero suscipit adipisci ad nostrum maiores. A quibusdam amet quia veritatis nisi cum magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque sit nihil odio accusamus nulla numquam fugit. Neque sed qui deleniti quibusdam eaque, iste error recusandae delectus id minus corporis exercitationem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum natus nihil amet accusamus temporibus maiores deserunt voluptates! Qui, minus. Expedita labore nam repellendus autem reprehenderit officia maxime consequuntur optio modi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt dolorem nulla nam minus possimus, provident consequatur atque nobis. Impedit quas vitae ipsum, libero rerum dolorem praesentium odit temporibus pariatur nemo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis quis inventore quidem doloremque, soluta officiis delectus et mollitia iusto, alias quibusdam dolores perferendis, deserunt pariatur laborum libero. Repudiandae, molestiae sequi? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, eaque? Esse ipsa perspiciatis est amet. Pariatur sed nisi assumenda ex non. Incidunt nam quisquam quidem, cum libero quos iste sint!Lorem
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, esse labore natus aut perspiciatis earum corrupti libero suscipit adipisci ad nostrum maiores. A quibusdam amet quia veritatis nisi cum magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque sit nihil odio accusamus nulla numquam fugit. Neque sed qui deleniti quibusdam eaque, iste error recusandae delectus id minus corporis exercitationem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum natus nihil amet accusamus temporibus maiores deserunt voluptates! Qui, minus. Expedita labore nam repellendus autem reprehenderit officia maxime consequuntur optio modi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt dolorem nulla nam minus possimus, provident consequatur atque nobis. Impedit quas vitae ipsum, libero rerum dolorem praesentium odit temporibus pariatur nemo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis quis inventore quidem doloremque, soluta officiis delectus et mollitia iusto, alias quibusdam dolores perferendis, deserunt pariatur laborum libero. Repudiandae, molestiae sequi? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, eaque? Esse ipsa perspiciatis est amet. Pariatur sed nisi assumenda ex non. Incidunt nam quisquam quidem, cum libero quos iste sint!Lorem
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, esse labore natus aut perspiciatis earum corrupti libero suscipit adipisci ad nostrum maiores. A quibusdam amet quia veritatis nisi cum magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque sit nihil odio accusamus nulla numquam fugit. Neque sed qui deleniti quibusdam eaque, iste error recusandae delectus id minus corporis exercitationem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum natus nihil amet accusamus temporibus maiores deserunt voluptates! Qui, minus. Expedita labore nam repellendus autem reprehenderit officia maxime consequuntur optio modi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt dolorem nulla nam minus possimus, provident consequatur atque nobis. Impedit quas vitae ipsum, libero rerum dolorem praesentium odit temporibus pariatur nemo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis quis inventore quidem doloremque, soluta officiis delectus et mollitia iusto, alias quibusdam dolores perferendis, deserunt pariatur laborum libero. Repudiandae, molestiae sequi? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, eaque? Esse ipsa perspiciatis est amet. Pariatur sed nisi assumenda ex non. Incidunt nam quisquam quidem, cum libero quos iste sint!Lorem
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, esse labore natus aut perspiciatis earum corrupti libero suscipit adipisci ad nostrum maiores. A quibusdam amet quia veritatis nisi cum magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque sit nihil odio accusamus nulla numquam fugit. Neque sed qui deleniti quibusdam eaque, iste error recusandae delectus id minus corporis exercitationem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum natus nihil amet accusamus temporibus maiores deserunt voluptates! Qui, minus. Expedita labore nam repellendus autem reprehenderit officia maxime consequuntur optio modi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt dolorem nulla nam minus possimus, provident consequatur atque nobis. Impedit quas vitae ipsum, libero rerum dolorem praesentium odit temporibus pariatur nemo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis quis inventore quidem doloremque, soluta officiis delectus et mollitia iusto, alias quibusdam dolores perferendis, deserunt pariatur laborum libero. Repudiandae, molestiae sequi? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, eaque? Esse ipsa perspiciatis est amet. Pariatur sed nisi assumenda ex non. Incidunt nam quisquam quidem, cum libero quos iste sint!Lorem
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, esse labore natus aut perspiciatis earum corrupti libero suscipit adipisci ad nostrum maiores. A quibusdam amet quia veritatis nisi cum magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque sit nihil odio accusamus nulla numquam fugit. Neque sed qui deleniti quibusdam eaque, iste error recusandae delectus id minus corporis exercitationem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum natus nihil amet accusamus temporibus maiores deserunt voluptates! Qui, minus. Expedita labore nam repellendus autem reprehenderit officia maxime consequuntur optio modi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt dolorem nulla nam minus possimus, provident consequatur atque nobis. Impedit quas vitae ipsum, libero rerum dolorem praesentium odit temporibus pariatur nemo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis quis inventore quidem doloremque, soluta officiis delectus et mollitia iusto, alias quibusdam dolores perferendis, deserunt pariatur laborum libero. Repudiandae, molestiae sequi? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, eaque? Esse ipsa perspiciatis est amet. Pariatur sed nisi assumenda ex non. Incidunt nam quisquam quidem, cum libero quos iste sint!Lorem
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, esse labore natus aut perspiciatis earum corrupti libero suscipit adipisci ad nostrum maiores. A quibusdam amet quia veritatis nisi cum magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque sit nihil odio accusamus nulla numquam fugit. Neque sed qui deleniti quibusdam eaque, iste error recusandae delectus id minus corporis exercitationem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum natus nihil amet accusamus temporibus maiores deserunt voluptates! Qui, minus. Expedita labore nam repellendus autem reprehenderit officia maxime consequuntur optio modi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt dolorem nulla nam minus possimus, provident consequatur atque nobis. Impedit quas vitae ipsum, libero rerum dolorem praesentium odit temporibus pariatur nemo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis quis inventore quidem doloremque, soluta officiis delectus et mollitia iusto, alias quibusdam dolores perferendis, deserunt pariatur laborum libero. Repudiandae, molestiae sequi? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, eaque? Esse ipsa perspiciatis est amet. Pariatur sed nisi assumenda ex non. Incidunt nam quisquam quidem, cum libero quos iste sint!Lorem
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint fuga delectus fugiat aliquid beatae reiciendis quia eius voluptatem pariatur vitae unde, ipsam neque distinctio quis facere! Saepe quisquam sit vero.
+                        </p>
+                    </div>
+                 </div>
+              </div>
+          </section>
+    </body>
+</html>
